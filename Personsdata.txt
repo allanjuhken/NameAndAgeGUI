@@ -4,3 +4,6 @@ al;0
 uus;0
 12;12
 asdf;33
+kalle;55
+aasdf;0
+qwertyuiopüõüpoiuytr;11
